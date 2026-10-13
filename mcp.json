@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "deadlineengine": {
+      "url": "https://api.klisten.co.kr/mcp/deadlineengine",
+      "headers": {
+        "Authorization": "Bearer ${KLISTEN_API_KEY}"
+      }
+    }
+  }
+}
